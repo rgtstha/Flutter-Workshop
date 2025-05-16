@@ -14,3 +14,17 @@ This repository contains the code and resources for the Flutter Workshop conduct
 - [Presentation Slide](./presentation_slide.pdf)
 -  [Dart Basic](./dart-basic/)
 
+
+
+
+## Photo Gallery 
+
+<p align="center">
+  <img src="./workshop-gallery/1.jpg" width="200"/>
+  <img src="./workshop-gallery/2.jpg" width="200"/>
+  <img src="./workshop-gallery/3.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="./workshop-gallery/4.jpg" width="200"/>
+  <img src="./workshop-gallery/5.jpg" width="200"/>
+</p>
