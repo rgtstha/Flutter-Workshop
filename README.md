@@ -7,7 +7,7 @@ This repository contains the code and resources for the Flutter Workshop conduct
 - **Time:** 10:00 AM to 12:00 PM
 - **Location:** Kathmandu BernHardt College, Bafal, Kathmandu
 - **Instructor:** Ranjit Shrestha
-- **Contact:** [ranjitshrestha.com.np](https://ranjitshrestha.com.np)
+- **Contact:** [ranjitshrestha.com.np](https://shrestharanjit.com.np)
 
 
 ## Links
